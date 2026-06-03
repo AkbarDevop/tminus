@@ -1,0 +1,8 @@
+# build artifacts
+newtab.zip
+deadline-os.zip
+*.zip
+# local tooling
+.gstack/
+.DS_Store
+.claude/
