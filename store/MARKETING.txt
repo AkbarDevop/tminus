@@ -1,0 +1,124 @@
+========================================================
+tminus — launch copy (all channels)
+install: akbar.one/tminus   |   code: github.com/AkbarDevop/tminus
+inspired by: Enzo Conan (https://www.linkedin.com/in/enzoconan/)
+his video: https://www.instagram.com/p/DZErQx7gIOE/
+TIP: attach an 8-second screen recording of the number ticking. it outperforms stills everywhere.
+========================================================
+
+
+==========================  1. SHOW HN (Hacker News)  ==========================
+Post type: "Show HN". Submit weekday morning ET. No images on HN, just URL + text.
+
+URL field:
+https://github.com/AkbarDevop/tminus
+
+Title:
+Show HN: tminus – a minimalist new tab that counts down to your deadline
+
+Text:
+hi hn. i kept seeing a video of someone building in a yc startup who turned their browser new tab into a live countdown to demo day. one big number, their logo, a few links. it stuck with me, so i built a version anyone can use.
+
+tminus replaces your new tab with one big countdown in days (the fraction ticks live) to whatever deadline matters. you can add a logo, an emoji, or upload an image, plus a subtitle, smaller secondary deadlines, and a few quick links. six backgrounds, four fonts.
+
+it is vanilla js, no build step, no dependencies, no accounts, no servers, no tracking. everything is stored locally. the only network calls are loading favicons for links you add. mit licensed.
+
+try it: akbar.one/tminus
+
+would love feedback on the design and anything you would want it to do.
+
+
+==========================  2. PRODUCT HUNT  ==========================
+Launch at 12:01am PT. Upload the screenshots + promo tile from this folder.
+
+Name:
+tminus
+
+Tagline (max 60 chars):
+Your new tab, counting down to the deadline that matters
+
+Description:
+tminus turns every new tab into one big countdown to the deadline you care about, with your own logo, a subtitle, and a few links. minimal, private, open source. inspired by a founder's yc demo-day timer.
+
+Topics:
+Productivity, Chrome Extensions, Open Source
+
+First comment (post as the maker):
+hey product hunt, i'm akbar.
+
+i saw a video of someone building in a yc startup who pinned a live demo-day countdown to their browser new tab. could not stop thinking about it, so i built a version anyone can use.
+
+tminus replaces your new tab with one big number counting down to your deadline (the decimals tick live). add your own logo or emoji, a subtitle, smaller secondary deadlines, and a few quick links. six backgrounds, four fonts.
+
+it is open source, has no accounts or servers, and stores everything locally. free forever.
+
+install: akbar.one/tminus
+code: github.com/AkbarDevop/tminus
+
+inspired by enzo conan's video. would love your feedback.
+
+
+==========================  3. REDDIT  ==========================
+Read each sub's self-promo rules first. Lead with the thing, not "please install".
+
+----- r/SideProject -----
+Title:
+i built a minimalist new-tab chrome extension that counts down to your deadline (open source)
+
+Body:
+saw a video of someone building in a yc startup who made their new tab a live demo-day countdown. built a version anyone can use.
+
+tminus = one big number counting down to whatever deadline matters, with your logo, a subtitle, secondary deadlines, and a few links. vanilla js, no build, no tracking, everything stored locally, mit licensed.
+
+install: akbar.one/tminus
+code: github.com/AkbarDevop/tminus
+
+my first published extension. feedback welcome.
+
+----- r/chrome_extensions -----
+Title:
+tminus – a new tab that counts down to your deadline (free, open source, no tracking)
+
+Body:
+replaces your new tab with one big countdown to your deadline. add a logo (emoji, upload, or image url), a subtitle, multiple deadlines, and quick links. six backgrounds, four fonts.
+
+no accounts, no servers, everything local. mit licensed.
+
+install: akbar.one/tminus
+code: github.com/AkbarDevop/tminus
+
+----- r/productivity -----
+Title:
+i made a free new-tab extension that opens to one big countdown instead of a feed
+
+Body:
+every new tab shows a single number counting down to the deadline that matters, so opening a tab is a reminder to lock in instead of a distraction. free, open source, no tracking.
+
+akbar.one/tminus
+
+----- r/startups -----
+Title:
+inspired by a yc demo-day countdown video, i built a new-tab countdown for any deadline (open source)
+
+Body:
+saw a video of a founder counting down to yc demo day on their browser new tab. rebuilt it so anyone can point it at any deadline (launch, raise, ship date, finals). your logo, your links.
+
+free + open source: akbar.one/tminus  |  github.com/AkbarDevop/tminus
+
+----- optional, check rules first -----
+r/coolgithubprojects (needs the github link + their title format)
+r/InternetIsBeautiful (strict: often removes apps/extensions, must read as a website experience. risky, but the store page qualifies. title: "tminus – a new tab that counts down to the deadline that matters")
+
+
+==========================  5. CREDIT ENZO CONAN  ==========================
+The highest-leverage single move: if he reshares, that is huge reach.
+
+----- Instagram comment on his reel (instagram.com/p/DZErQx7gIOE/) -----
+this video lived in my head for weeks. i finally built a version anyone can use: a new tab that counts down to any deadline, with your own logo and links. open source and free. thank you for the spark. akbar.one/tminus
+
+----- LinkedIn (connect note, keep under ~300 chars) -----
+hi enzo, your video about the yc demo-day countdown on your new tab really stuck with me. i built a free, open-source version anyone can use: akbar.one/tminus. just wanted to say thanks for the inspiration.
+
+----- X (reply under your own launch post, or a fresh quote) -----
+the spark for this was a video by enzo conan. if you want the original: instagram.com/p/DZErQx7gIOE/ . thank you for it. (add his @ if he is on X)
+========================================================
