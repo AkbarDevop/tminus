@@ -11,7 +11,8 @@ TIP: attach an 8-second screen recording of the number ticking. it outperforms s
 Post type: "Show HN". Submit weekday morning ET. No images on HN, just URL + text.
 
 URL field:
-https://github.com/AkbarDevop/tminus
+https://akbar.one/tminus
+(your own domain, 302-redirects to the store, so the HN listing shows "(akbar.one)" and one click installs it. do NOT paste the raw chromewebstore.google.com url: same destination but the listing would show a generic google domain.)
 
 Title:
 Show HN: tminus – a minimalist new tab that counts down to your deadline
@@ -23,7 +24,7 @@ tminus replaces your new tab with one big countdown in days (the fraction ticks 
 
 it is vanilla js, no build step, no dependencies, no accounts, no servers, no tracking. everything is stored locally. the only network calls are loading favicons for links you add. mit licensed.
 
-try it: akbar.one/tminus
+code (open source): github.com/AkbarDevop/tminus
 
 would love feedback on the design and anything you would want it to do.
 
